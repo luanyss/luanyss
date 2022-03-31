@@ -1,9 +1,7 @@
-### Oiii eu sou Luany, dev full stack com foco em estudo front-end :)
+### Oi! Eu sou Luany =]
 
 
-Here are some ideas to get you started:
-
-- 🌱 Estudando Javascript e React
+- 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -13,12 +11,11 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="luanyss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luanyss-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="luanyss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202112/338224_g8ioQVoY.png">
-</div>
+   <img align="center" alt="luany-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ </div>
   
 
 ##
