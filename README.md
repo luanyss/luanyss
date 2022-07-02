@@ -1,7 +1,7 @@
 ### Oi! Eu sou Luany =]
 
 
-- 🌱 Estudando Java
+- 🌱 Programo em Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
