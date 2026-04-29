@@ -4,15 +4,26 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem-vindo+ao+meu+github!+:%29" alt="Typing SVG" />
 </p>
 
-# 👩‍💻 Luany Souza
+# 👩‍💻 Olá, sou Luany Souza
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora Front-end Especialista em IA Generativa & Low-code`**
 
-Me chamo Luany, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente sou aluna de Desenvolvimento de Software Front-End na escola **Vai na Web**, focada em transformar minha paixão por tecnologia em soluções reais. 
+Brasileira, natural do Rio de Janeiro. Desenvolvedora Front-end focada em unir a técnica do código com a agilidade da IA e Low-code (Vibe Coding).
 
-🚀 Um dos grandes marcos da minha jornada foi a participação no **Hack das Minas** (FIAP, Intimus e Kimberly-Clark). Liderando com criatividade, minha equipe desenvolveu uma solução de engajamento para a plataforma Kira que nos rendeu o [**1º Lugar na competição**](https://www.linkedin.com/posts/luanyss_kirahackdasminas-hackaton-kirahackdasminas-activity-6949481027903881216-_UPp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj78DQBAGNheE5yag3hidsDpI58im_9_y8).
+### 🚀 Destaques:
+
+**Tech Lead** no Hackathon da L’Oréal.
+
+**1º Lugar** no Hack das Minas (FIAP/Intimus e Kimberly-Clark) - Liderança técnica e estratégica. Minha equipe desenvolveu uma solução de engajamento para a plataforma Kira que nos rendeu o [**1º Lugar na competição**](https://www.linkedin.com/posts/luanyss_kirahackdasminas-hackaton-kirahackdasminas-activity-6949481027903881216-_UPp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj78DQBAGNheE5yag3hidsDpI58im_9_y8).
+
+Estudante de **Radiologia**, trazendo precisão e cuidado técnico para o desenvolvimento de software
 
 ---
+
+### 💡 Foco Atual: 
+Construindo o Suaréz Digital Studio e explorando Engenharia de Prompt e automações com n8n para acelerar a entrega de valor real.
+
+
 
 ### 🤝 Entre em contato comigo
 
@@ -24,6 +35,7 @@ Me chamo Luany, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente sou al
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ### 🤖 Linguagens e Tecnologias
 
